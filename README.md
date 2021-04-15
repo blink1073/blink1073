@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Steve</h1>
-<h3 align="center">Hi, I'm a [Project Jupyter](https://jupyter.org/) maintainer and Steering Council member.  I am an Air Force Veteran and have been an open source maintainer since 2011.  I was previously a core developer on the [scikit-image](https://scikit-image.org/) and [Spyder IDE](https://www.spyder-ide.org/) teams.</h3>
+
+Hi, I'm a [Project Jupyter](https://jupyter.org/) maintainer and Steering Council member.  I am an Air Force Veteran and have been an open source maintainer since 2011.  I was previously a core developer on the [scikit-image](https://scikit-image.org/) and [Spyder IDE](https://www.spyder-ide.org/) teams.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blink1073&label=Profile%20views&color=0e75b6&style=flat" alt="blink1073" /> </p>
 
