@@ -8,6 +8,8 @@
 
 - 🔭 I’m currently working on [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/), the next-generation web-based user interface for Project Jupyter.
 
+<p align="left"> <img src="https://jupyter.org/assets/labpreview.png" alt="jupyterlab" /> </p>
+
 - 👯 I’m looking to collaborate on [JupyterLab](https://github.com/jupyterlab/jupyterlab)
 
 - 😄 Pronouns: he/him
